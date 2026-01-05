@@ -43,7 +43,3 @@
 ```
 
 📫 How to reach me: <kent.liusudarso@gmail.com>
-
-## 🎵 Now Playing  
-
-![Spotify Now Playing](https://spotify.kntl.zip)
